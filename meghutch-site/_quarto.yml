@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Meghan Hutch"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - publications.qmd
+      - presentations.qmd
+      - teaching.qmd
+      - software.qmd
+      - blog.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,31 @@
+{
+    "id": "7FC7A76D",
+    "path": "~/Projects/meghutch-site/publications.qmd",
+    "project_path": "publications.qmd",
+    "type": "quarto_markdown",
+    "hash": "1811983455",
+    "contents": "",
+    "dirty": false,
+    "created": 1703887556371.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "23,0",
+        "scrollLine": "18",
+        "rmdVisualModeLocation": "512:362.9629821777344"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1705266765,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1705266765047,
+    "read_only": false,
+    "read_only_alternatives": []
+}

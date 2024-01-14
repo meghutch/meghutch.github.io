@@ -1,0 +1,66 @@
+---
+title: "Software"
+subtitle: "Meghan R. Hutch"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/meghutch
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/meghan-hutch
+  - icon: google-scholar
+    text: Google-Scholar
+    href: https://scholar.google.com/citations?hl=en&user=wndixZEAAAAJ&view_op=list_works
+  - icon: CV
+    text: CV
+    url: Hutch_CV_2023.pdf
+---
+
+<!-- head -->
+
+```{=html}
+<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
+```
+### Software
+
+**Programming Languages:** R \| Python \| SQL \| Bash \| LaTeX \| markdown
+
+**Software:** R Shiny \| Git \| Github \| quarto \| AWS \| Biorender
+
+### Websites
+
+[SOAR: A **S**patial transcript**O**mics **A**nalysis **R**esource](https://soar.fsm.northwestern.edu/): Spatial transcriptomics is an expanding set of techniques used to quantify gene expression within specific locations of a tissue sample. Such technology enables a more precise understanding of gene expression within specific cells and the interactions between cells.
+
+I led the website development for a collaborative team effort to deploy a R Shiny application that provides the scientific and research community access to a curated set of 304 spatial transcriptomic datasets with corresponding analyses of 2,785 tissue samples. 
+
+### Repositories
+
+<!-- inside body, where you want to create the card -->
+
+::: {.repo-card data-repo="covidclinical/Phase2.1NeuroAnalysis"}
+:::
+
+<br>
+
+::: {.repo-card data-repo="meghutch/traumaScanner"}
+:::
+
+<br>
+
+::: {.repo-card data-repo="meghutch/ICP-NPI"}
+:::
+
+<br>
+
+::: {.repo-card data-repo="meghutch/4CE_Comorbidity_Mapping"}
+:::
+
+<br>
+
+::: {.repo-card data-repo="meghutch/COVID-19-Hospitalization-Trends"}
+:::
