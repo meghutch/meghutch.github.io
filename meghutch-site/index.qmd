@@ -1,0 +1,32 @@
+---
+title: "Meghan R. Hutch"
+subtitle: "Chicago, IL"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/meghutch
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/meghan-hutch
+  - icon: google-scholar
+    text: Google-Scholar
+    href: https://scholar.google.com/citations?hl=en&user=wndixZEAAAAJ&view_op=list_works
+  - icon: CV
+    text: CV
+    url: Hutch_CV_2023.pdf
+---
+
+### Welcome!
+
+My name is Meghan and I am a Ph.D. Candidate studying Biomedical Informatics through Northwestern University's [Driskill Graduate Program](https://www.feinberg.northwestern.edu/sites/dgp/index.html).
+
+As a biomedical informatician and public health data scientist, my research broadly focuses on the application of biostatistic and data science methods to derive insights from patient electronic health records. Specifically, my dissertation focuses on developing risk models that can help us better delineate the clinical trajectories of patients with diverse neurologic illnesses. 
+
+I am also extremely passionate about mentoring and teaching! I am always happy to meet with students who are new to coding, interested in pursuing higher education, or who just want to talk science and/or collaborate!
+
+When I'm not running code, I can usually be found running miles along Chicago's beautiful lake shore trails. I also love to paint, read, and explore Chicago and the surrounding midwest region with friends.

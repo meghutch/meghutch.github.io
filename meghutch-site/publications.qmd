@@ -1,0 +1,37 @@
+---
+title: "Publications"
+subtitle: "Meghan R. Hutch"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/meghutch
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/meghan-hutch
+  - icon: google-scholar
+    text: Google-Scholar
+    href: https://scholar.google.com/citations?hl=en&user=wndixZEAAAAJ&view_op=list_works
+  - icon: CV
+    text: CV
+    url: Hutch_CV_2023.pdf
+---
+
+### Select Publications
+
+1.  **Hutch MR**, Son J, Le TT, Hong C, Wang X, Shakeri Z, et al. \"Neurological Diagnoses in Hospitalized COVID-19 Patients Associated With Adverse Outcomes: A Multinational Cohort Study.\" 2022. (*Status: Under review*)\
+2.  Li Y, Dennis S, **Hutch MR**, Li Y, Broad MS, Zeng Z, Luo Y. \"SOAR: a spatial transcriptomics analysis resource to model spatial variability and cell type interactions.\" bioRxiv 2022.04.17.488596; (*Status: Under review*)\
+3.  Wang H, Li Y, **Hutch MR**, Kline AS, Otero S, Mithal L, Miller SE, Naidech A, Luo Y. "Patterns of diverse
+    and changing sentiments towards COVID-19 vaccines: a sentiment analysis study integrating 11 million tweets and surveillance data across over 180 countries." J Am Med Inform Assoc. 2023;30(5).\
+4.  Tan ALM, Getzen EJ, **Hutch MR**, et al. "Informative Missingness: What can we learn from patterns in missing laboratory data in the electronic health record?" J Biomed Info. 2023;139. doi:10.1016/j.jbi.2023.104306.\
+5.  Gutiérrez-Sacristán A, Serret-Larmande A, **Hutch MR**, et al. \"Hospitalizations Associated With Mental Health Conditions Among Adolescents in the US and France During the COVID-19 Pandemic.\" JAMA Netw Open. 2022;5(12):e2246548. doi:10.1001/jamanetworkopen.2022.46548\
+6.  Kline A, Wang H, Li Y, Dennis S, **Hutch M**, Xu Z, Wang F, Cheng F, Luo Y. "Multimodal machine learning in precision health: A scoping review." npj Digital Medicine. 2022;5(171). doi:10.1038/s41746-022-00712-8\
+7.  Klann JG, Strasser ZH, **Hutch MR**, et al. \"Distinguishing Admissions Specifically for COVID-19 From Incidental SARS-CoV-2 Admissions: National Retrospective Electronic Health Record Study.\" J Med Internet Res. 2022 May 18;24(5):e37931. doi:10.2196/37931\
+8.  **Hutch MR**, Liu M, Avillach P, Luo Y, Bourgeois FT. \"National Trends in Disease Activity for COVID-19 among Children in the US." Front. Pediatr. 2021. doi:10.3389/fped.2021.700656\
+9.  Ong CJ, Zhang R, Orfanoudaki A, Pierre M Caprasse F, **Hutch M**, Liang M, Fard D, Balogun O, Miller MI, Minnig M, Sağlam H, Prescott B, Greer DM, Smirnakis S, Bertsimas D. "Machine learning and natural language processing methods to identify ischemic stroke, acuity and location from radiology reports." PLoS ONE 2020. doi:10.1371/journal.pone.0234908
+10. Ong CJ, **Hutch M**, Barra M, Kim A, Zafar S, Smirnakis SM. "Osmotic therapy effects on pupil reactivity: Quantification using pupillometry in critically ill neurologic patients." Neurocrit Care 2018. doi:10.1007/s12028-018-0620-y\
+11. Ong CJ, **Hutch M**, Smirnakis SM. "The Effect of Ambient Light Conditions on Quantitative Pupillometry." Neurocrit Care 2018. doi:10.1007/s12028-018-0607-8

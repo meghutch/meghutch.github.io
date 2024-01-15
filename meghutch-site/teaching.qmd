@@ -1,0 +1,54 @@
+---
+title: "Teaching"
+subtitle: "Meghan R. Hutch"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/meghutch
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/meghan-hutch
+  - icon: google-scholar
+    text: Google-Scholar
+    href: https://scholar.google.com/citations?hl=en&user=wndixZEAAAAJ&view_op=list_works
+  - icon: CV
+    text: CV
+    url: Hutch_CV_2023.pdf
+---
+
+### Teaching ePortfolio
+
+During my participation in Northwestern University's [Reflective and Effective Teaching](https://searle.northwestern.edu/programs-services/programs/program-pages/reflective-and-effective-teaching.html), I designed a course focused on "Methods for reproducibility in biomedical informatics research". An introductory graduate level course designed to teach students in biomedical informatics or data science degree programs the importance of scientific reproducibility and best coding practices.
+
+The below links comprise my ePortfolio of teaching materials developed for my envisioned course.
+
+-   [**Course Motivation**](motivation.qmd)
+
+-   [**Course Description & Objectives**](course_description_objectives.qmd)
+
+- [**Course Schedule & Assessment Plan**](schedule_assessment_plan.qmd)
+
+-   [**Lesson Plan - Introduction to Github**](lesson_plan.qmd)
+
+    -   [**Lesson Worksheet**](lesson_worksheet.qmd)
+    -   [**Lesson Assessment**](lesson_assessment.qmd)
+
+### **Teaching Experience**
+
+-   **BIOSTAT 302: Intro to Biostatistics, Teaching Assistant (Summer 2022, 2023)\
+    **MS Biostatistics Program, Northwestern University
+
+-   **BIOSTAT 306: R Programming, Teaching Assistant (Summer 2023)\
+    **MS Biostatistics Program, Northwestern University
+
+-   **HBMI 442: Methods in Health and Biomedical Informatics, Teaching Assistant (Winter 2022)** MS/PhD in Health and Biomedical Informatics Program, Northwestern University
+
+#### **Lectures**
+
+-   **HBMI 442: Methods in Health & Biomedical Informatics, Guest Lecture on Federated Learning (Winter 2023)\
+    **MS/PhD in Health and Biomedical Informatics Program, Northwestern University ([Lecture slides](lectures/Federated_Learning.pptx))

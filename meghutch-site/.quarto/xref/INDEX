@@ -1,0 +1,41 @@
+{
+  "about.qmd": {
+    "about.html": "101d2ac3"
+  },
+  "blog.qmd": {
+    "blog.html": "45212e6d"
+  },
+  "course_description_objectives.qmd": {
+    "course_description_objectives.html": "4686f34d"
+  },
+  "index.qmd": {
+    "index.html": "9300c934"
+  },
+  "lesson_assessment.qmd": {
+    "lesson_assessment.html": "6a00d7bd"
+  },
+  "lesson_plan.qmd": {
+    "lesson_plan.html": "a3f75409"
+  },
+  "lesson_worksheet.qmd": {
+    "lesson_worksheet.html": "3bbf716e"
+  },
+  "motivation.qmd": {
+    "motivation.html": "db857be5"
+  },
+  "presentations.qmd": {
+    "presentations.html": "9e67c2ac"
+  },
+  "publications.qmd": {
+    "publications.html": "45594095"
+  },
+  "schedule_assessment_plan.qmd": {
+    "schedule_assessment_plan.html": "8e0ebf3b"
+  },
+  "software.qmd": {
+    "software.html": "31e30d34"
+  },
+  "teaching.qmd": {
+    "teaching.html": "60abd9ec"
+  }
+}

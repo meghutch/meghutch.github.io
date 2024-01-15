@@ -1,0 +1,77 @@
+---
+title: "Course Description & Objectives"
+subtitle: "Meghan R. Hutch"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: GitHub
+    text: GitHub
+    href: https://GitHub.com/meghutch
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/meghan-hutch
+  - icon: google-scholar
+    text: Google-Scholar
+    href: https://scholar.google.com/citations?hl=en&user=wndixZEAAAAJ&view_op=list_works
+  - icon: CV
+    text: CV
+    url: Hutch_CV_2023.pdf
+---
+
+#### **Methods for Reproducibility in Biomedical Informatics Research**
+
+## Course Description & Objectives
+
+### Course Description
+
+There is an ongoing reproducibility crisis in science. Even computational research, which can avoid experimental variation from animal samples or environmental conditions, has fallen victim to poor reproducibility. For example, a recent study reported that the code from only 24% of Jupyter notebooks shared on GitHub, the most prominent version control resource, were successfully re-executed ([Pimental, J. 2019](https://ieeexplore.ieee.org/document/8816763)).
+
+This course aims to teach incoming biomedical informatics and data science students to recognize the importance of scientific reproducibility, and its crucial role in advancing scientific research. Throughout the quarter-long course, students will develop and execute their own fully reproducible analytic pipeline. Specifically, students will be tasked with constructing a pipeline to run a predictive model that will answer a research question of their choosing. Students may choose to work with publicly available omics or health-based datasets. 
+
+Each week the course will introduce a new concept and its utility for ensuring scientific reproducibility. Students will have the opportunity to integrate this knowledge into their course projects. Course concepts and their utility for ensuring scientific reproducibility will be taught in a sequential, scaffolding-like manner covering the following:
+
+-   Acquisition and storage of data
+
+-   Structuring their computational workflow
+
+-   Incorporating GitHub for version control
+
+-   Documenting their work
+
+-   Testing to ensure reproducibility
+
+Student performance will be measured by the following criteria:
+
+1.  **Class participation (25%)** - engagement and completion of in-class exercises and participation in classroom discussions
+
+2.  **Assignments (50%) -** two homework assignments related to the quarter long project will be assigned (25% each). These assignments will be opportunities to receive early feedback on final projects.
+
+3.  **Final Project (25%)** - Student projects will be assessed by the instructor, and another randomly assigned student. Projects will be examined to determine whether the code runs as described by the student's documentation, and if the same results reported by the student are able to be obtained. The student's reproducible pipeline should also follow the best practices taught throughout the course.
+
+This class is crucial for ensuring that early biomedical informatics students will develop a deep understanding of scientific reproducibility before embarking on dissertation research projects and their future careers.
+
+### Course Objectives
+
+By the end of the course, students will be able to: 
+
+1.  **Recognize** the importance of scientific reproducibility and the potential pitfalls when research is not reproducible
+2.  **Describe** best practices and tools for ensuring scientific reproducibility in biomedical informatics research
+3.  **Implement** popular tools such as version control (GitHub) and best practices for data acquisition, code documentation, project structure and organization, and testing that will ensure scientific reproducibility.
+4.  **Execute** a reproducible, computational pipeline implementing the tools and best practices learned throughout the course
+
+------------------------------------------------------------------------
+
+**Review additional course materials:**
+
+-   [**Course Motivation**](motivation.qmd)
+
+-   [**Course Schedule & Assessment Plan**](schedule_assessment_plan.qmd)
+
+-   [**Lesson Plan - Introduction to Github**](lesson_plan.qmd)
+
+    -   [**Lesson Worksheet**](lesson_worksheet.qmd)
+    -   [**Lesson Assessment**](lesson_assessment.qmd)
+
