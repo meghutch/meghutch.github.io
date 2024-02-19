@@ -1,0 +1,55 @@
+---
+title: "Course Motivation"
+subtitle: "Meghan R. Hutch"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: GitHub
+    text: GitHub
+    href: https://GitHub.com/meghutch
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/meghan-hutch
+  - icon: google-scholar
+    text: Google-Scholar
+    href: https://scholar.google.com/citations?hl=en&user=wndixZEAAAAJ&view_op=list_works
+  - icon: CV
+    text: CV
+    url: cv/Hutch_CV_2023.pdf
+---
+
+#### **Methods for Reproducibility in Biomedical Informatics Research**
+
+### Course Motivation
+
+My course aims to emphasize the importance of scientific reproducibility in the midst of the current reproducibility crisis. Throughout the course, students will learn state of the art best practices to ensure they are stewards of scientific reproducibility in their research.
+
+In designing this course, I adapted the framework of Northwestern University's MS in Data Analytics program's course: Analytics Value Chain. This course provides an in depth review of the steps needed to deploy models in production. While this course was focused more on business applications, I often thought about its relevance to scientific reproducibility. For myself and many of my fellow classmates, we were not formally taught best coding practices. Many of us are self-taught programmers and are learning best practices through painful trial and error. My own experiences have motivated me to create a course for computational researchers that will teach the best practices to ensure scientific reproducibility.
+
+### Rationale for Course Design
+
+Developing this course helped me to think more critically about the importance of scientific reproducibility and how to best structure each lesson to ensure students were learning the most salient course objectives. In a 10-week course, it is impossible to cover every strategy to ensure students are flawless leaders of scientific reproducibility. By carefully considering of the primary objectives of the course and applying a backward design approach, I was able to distill the most important, long-term objectives I want my students to take away from the course. 
+
+As such, the course-long project is designed to be highly hands-on and practical. Each class, students are given opportunities to learn and apply new computational concepts. Additionally, the course-long project allows students to choose their own dataset and problem to solve. Such flexibility is expected to encourage deeper and more significant learning of the course objectives. This framework can also help foster a more inclusive and equitable learning environment as students are welcome to choose a project that is of interest to them and which accommodates their own strengths and skills. Additionally, the inclusion of group-based activities is designed to facilitate heightened engagement, content retention, and future collaboration among the lecturer and students - important traits for budding informaticians and researchers.
+
+As demonstrated in my Introduction to GitHub Lesson, I also attempt to provide students with opportunities for meta-cognition. The inclusion of pre-class and post-class exercises are designed to help students solidify the main concepts they are learning and to think critically about how they may use the lesson's tools and strategies in their own research. Through such meta-cognitive exercises, a deeper understanding of the material can be obtained.
+
+### Rationale for Assessment
+
+Since my course aims to ensure an equitable classroom environment among students of different academic backgrounds, I thought carefully about how to assess student performance. Overall, a student's participation and engagement of in-class activities are weighted much more heavily than individual assignments. As my Assessment Plan describes, the course follows a scaffolding structure in which students will learn skills and concepts each week that can be used to complete their final class project. This Assessment Plan is designed to provide opportunities to gauge the student's progress throughout the course and intervene when students may be falling behind. Overall, the course uses a practical assignment to equip students with the required skills to become leaders in biomedical informatics and stewards of scientific reproducibility.
+
+---
+
+**View course materials:**
+
+-   [**Course Description & Objectives**](course_description_objectives.qmd)
+
+-   [**Course Schedule & Assessment Plan**](schedule_assessment_plan.qmd)
+
+-   [**Lesson Plan - Introduction to Github**](lesson_plan.qmd)
+
+    -   [**Lesson Worksheet**](lesson_worksheet.qmd)
+    -   [**Lesson Assessment**](lesson_assessment.qmd)

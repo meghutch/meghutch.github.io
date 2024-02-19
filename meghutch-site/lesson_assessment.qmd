@@ -1,0 +1,33 @@
+---
+title: "Lesson #2: Introduction to Github"
+---
+
+## Assessment
+
+------------------------------------------------------------------------
+
+### Lesson 2: Introduction to Github
+
+In this lesson, the activity will graded more as a participation grade rather than a formal assessment. Oftentimes, technical issues may arise, prohibiting a student from finishing all exercises. If this is to be the case, students who were not able to finish the activity in class will be asked to do so on their own time for full participation credit. Alternatively, students can elect to attend office hours for more one-on-one help. All students should have at least filled out the worksheet which will also alert the instructor to any technical problems/concerns.
+
+At the conclusion of class, students will submit a link to their GitHub repository. Completion of the activity and participation in the lesson will be assessed by reviewing each student's repository and the log of changes they 'committed'.
+
+### Rubric
+
++---------------------+--------------------------+----------+--------------------------------------+----------------------------+-------------------------------------------------------------------------------------------+
+| Component           | Criteria                 | Value    | Needs Improvement (0 points)         | Developing\                | Excellent\                                                                                |
+|                     |                          |          |                                      | (0.5 points)               | (1 point)                                                                                 |
++:===================:+:========================:+:========:+:====================================:+:==========================:+:=========================================================================================:+
+| **GitHub Activity** | Creation of GitHub Repo  | 1        | Student did not create a             | Student created a repo but | Student created and                                                                       |
+|                     |                          |          | repo                                 | did not submit link        | submitted the link to the repo                                                            |
++---------------------+--------------------------+----------+--------------------------------------+----------------------------+-------------------------------------------------------------------------------------------+
+|                     | Commits                  | 1        | Student commit history does          | Student only has evidence  | Student has multiple commits in line with activity guidelines                             |
+|                     |                          |          | not contain evidence of any commits  | of 1 commit                |                                                                                           |
++---------------------+--------------------------+----------+--------------------------------------+----------------------------+-------------------------------------------------------------------------------------------+
+|                     | Make a commit to another | 1        | Student did not commit any           | NA                         | Student made at least 1 commit on another student\'s repo - thus, demonstrating \'pulling |
+|                     | student\'s repo          |          | changes to another student\'s repo   |                            |                                                                                           |
+|                     |                          |          |                                      |                            | and \'pushing\'                                                                           |
++---------------------+--------------------------+----------+--------------------------------------+----------------------------+-------------------------------------------------------------------------------------------+
+| **Worksheet**       | Student has filled       | 2        | Student did not submit the worksheet | Student left \> ½          | Student made sufficient                                                                   |
+|                     | worksheet                |          |                                      | questions blank            | attempt at answering all questions of the worksheet                                       |
++---------------------+--------------------------+----------+--------------------------------------+----------------------------+-------------------------------------------------------------------------------------------+

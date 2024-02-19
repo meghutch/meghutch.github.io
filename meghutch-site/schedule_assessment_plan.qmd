@@ -1,0 +1,97 @@
+---
+title: "Course Schedule & Assessment Plan"
+subtitle: "Meghan R. Hutch"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: github
+    text: Github
+    href: https://github.com/meghutch
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/meghan-hutch
+  - icon: google-scholar
+    text: Google-Scholar
+    href: https://scholar.google.com/citations?hl=en&user=wndixZEAAAAJ&view_op=list_works
+  - icon: CV
+    text: CV
+    url: cv/Hutch_CV_2023.pdf
+---
+
+#### **Methods for Reproducibility in Biomedical Informatics Research**
+
+## Course Schedule & Assessment Plan
+
+### Summary
+
+This course guides students through the process of developing a reproducible pipeline to support biomedical informatics projects. Each 3 hour class is structured so that each lesson will provide a 30-60 minutes of lecture, followed by a 1-1.5 hour lab based activity where students learn and practice implementing the lesson\'s main concepts. This course employs a scaffolding framework in that each concept builds upon the next for facilitating the student\'s personal project. In-class activities will account for a small portion of the grade (5%), and are really meant as a low-stakes way of ensuring students are staying on track. The higher weighted assessments include the midterm and final project. However, the course is designed to provide repeated opportunities for students to gain feedback from classmates and the instructor to ensure they are staying up to date on the course material. Moreover, students are given the choice of how to present their final projects. This allows students to leverage their personal strengths to demonstrate understanding of the material. For example, students can elect to present their final project in the form of an oral presentation or a written report.
+
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| Week | Lesson                                                    | Activity                                                                          | Rationale                                                                                                           | Weight    |
++:====:+:=========================================================:+:=================================================================================:+:===================================================================================================================:+:=========:+
+| 1    | Introduction to Reproducibility in Biomedical Informatics | In-class discussion to assess student's current understanding of reproducibility. | Introduce the importance of reproducibility in biomedical informatics and introduce students to the course project. | 5%        |
+|      |                                                           |                                                                                   |                                                                                                                     |           |
+|      |                                                           | Homework:                                                                         |                                                                                                                     |           |
+|      |                                                           |                                                                                   |                                                                                                                     |           |
+|      |                                                           | Research project abstract/proposal: Define data and question to answer            |                                                                                                                     |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 2    | Introduction to Github                                    | In-class assignment to set                                                        | Ensures that students are                                                                                           | 5%        |
+|      |                                                           | up Github Repo and perform basic commands/functions                               | familiar with GitHub, a mainstay method of version control.                                                         |           |
+|      |                                                           |                                                                                   |                                                                                                                     |           |
+|      |                                                           |                                                                                   | This class is a stepping                                                                                            |           |
+|      |                                                           |                                                                                   | stone to ensure they are set up to embark on their quarter long project.                                            |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 3    | Setting up project                                        | In-class assignment to                                                            | Ensures that students have                                                                                          | 5%        |
+|      | repository and pipeline                                   | review best practices for organizing Github repo and projects                     | set up their project repository and begin to learn about best practices for                                         |           |
+|      |                                                           |                                                                                   | pipeline development.                                                                                               |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 4    |  Data acquisition and cleaning                            | In-class assignment to                                                            |  Students will be able to apply data acquisition techniques for their own projct workflows.                         | 5%        |
+|      |                                                           | build a pipeline to import data. Will review data storage options (AWS, SQL       |                                                                                                                     |           |
+|      |                                                           | database) and APIs                                                                |                                                                                                                     |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 5    | Unit tests and peer                                       | In-class assignment to                                                            | Students will learn the                                                                                             | 5%        |
+|      | review                                                    | review and implement unit tests. Students will also conduct a peer review         | importance of unit tests for ensuring that projects are reproducible and that                                       |           |
+|      |                                                           | of each other\'s work                                                             | code is doing what they think it is.                                                                                |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 6    | Mid-term Review                                           | In-class activity where                                                           | Ensure that students are                                                                                            | 10%       |
+|      |                                                           | students will be paired and tasked with reproducing each others                   | keeping up with the prior week\'s tasks and that project repo is currently                                          |           |
+|      | (Peer Review)                                             | work                                                                              | runnable and reproducible by peers.                                                                                 |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 7    | Configuration files                                       |  In-class activity to configure files to ensure                                   | Ensure that students learn                                                                                          | 5%        |
+|      |                                                           | reproducibility                                                                   | best practices for implementing configuration files.                                                                |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 8    | Establish modeling pipeline                               |  In-class activity to establish functional modeling pipelines                     | This helps ties together all                                                                                        | F         |
+|      |                                                           |                                                                                   | components taught throughout the quarter together.                                                                  |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 9    |  README                                                   | In-class activity to develop a README file                                        | Review the importance of                                                                                            | 5%        |
+|      |                                                           |                                                                                   | documentation of how to run and reproduce analysis                                                                  |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+| 10   | Final projects                                            | Submission / Presentation                                                         | Students will present their own project in the form of their choosing.                                              | 30% / 20% |
+|      |                                                           |                                                                                   |                                                                                                                     |           |
+|      |                                                           |                                                                                   | Their final project will also be graded by the instructor to assess reproducibility                                 |           |
++------+-----------------------------------------------------------+-----------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+-----------+
+
+### Grading Scheme:
+
+-   **In-class assignments/homework (40%)** -- in-class assignments/homework throughout the quarter
+
+-   **Mid-term project assessment (15%)**
+
+-   **Final project - reproducible pipeline deployment (25%)**
+
+-   **Final project presentation (20%)** - choice of oral presentation or write up.
+
+--- 
+
+- [**Course Motivation**](motivation.qmd)
+
+- [**Course Description & Objectives**](course_description_objectives.qmd)
+
+-   [**Lesson Plan - Introduction to Github**](lesson_plan.qmd)
+
+    -   [**Lesson Worksheet**](lesson_worksheet.qmd)
+    -   [**Lesson Assessment**](lesson_assessment.qmd)
+

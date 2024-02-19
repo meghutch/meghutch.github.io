@@ -1,0 +1,27 @@
+---
+title: "Lesson #2: Introduction to Github"
+---
+
+## Worksheet
+
+------------------------------------------------------------------------
+
+### **Pre Class Questions**:
+
+1.  As a programmer and researcher, what is helpful to you when asked to review and/or run another scientist's code?
+
+2.  Have you previously run into challenges where someone couldn't run another scientist's code, or they couldn't run yours?
+
+### **Post Lesson Questions:**
+
+3.  Describe what a **repository** is.
+
+4.  Describe what it means to **clone** a repository.
+
+5.  What does it mean to **commit** a change to code?
+
+6.  Describe the difference between **push** and **pull**.
+
+7.  Provide 2-3 examples of how GitHub will benefit your projects/research and facilitate scientific reproducibility.
+
+8.  Which concept(s) from today's lesson felt the most challenging to understand? Why?
