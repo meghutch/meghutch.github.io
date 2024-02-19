@@ -15,7 +15,7 @@ website:
       - publications.qmd
       - presentations.qmd
       - teaching.qmd
-      - software.qmd
+      - projects.qmd
       - blog.qmd
 
 format:
