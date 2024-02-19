@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Meghan Hutch"
+  google-analytics: "G-V8CSJ5M77Z"
   navbar:
     left:
       - href: index.qmd
