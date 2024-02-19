@@ -23,7 +23,6 @@ about:
 
 <!-- Google tag (gtag.js) -->
 
-```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V8CSJ5M77Z"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -32,7 +31,6 @@ about:
 
   gtag('config', 'G-V8CSJ5M77Z');
 </script>
-```
 
 
 My name is Meghan and I am a Ph.D. Candidate studying Biomedical Informatics through Northwestern University's [Driskill Graduate Program](https://www.feinberg.northwestern.edu/sites/dgp/index.html).
