@@ -18,7 +18,7 @@ about:
     href: https://scholar.google.com/citations?hl=en&user=wndixZEAAAAJ&view_op=list_works
   - icon: CV
     text: CV
-    url: cv/Hutch_CV_2023.pdf
+    url: Hutch_CV_2023.pdf
 ---
 
 ### Education
