@@ -6,7 +6,8 @@ project:
 
 website:
   title: "Meghan Hutch"
-  google-analytics: "G-V8CSJ5M77Z"
+  google-analytics: 
+    tracking-id: "G-V8CSJ5M77Z"
   navbar:
     left:
       - href: index.qmd
