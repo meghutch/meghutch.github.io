@@ -1,0 +1,14 @@
+{
+  "hash": "c801f2332fa0c5dd7fd6ae97f7fbe5a0",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\nimage: profile.jpg\nabout:\n  template: trestles\n  image-width: 10em\n  image-shape: round\n  links:\n  - icon: github\n    text: Github\n    href: https://github.com/meghutch\n  - icon: linkedin\n    text: LinkedIn\n    href: https://www.linkedin.com/in/meghan-hutch\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
