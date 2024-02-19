@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "Hutch_CV_2023.pdf"
 
 website:
   title: "Meghan Hutch"
